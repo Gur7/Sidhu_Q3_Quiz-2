@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    background-color: #cce7f7;
+    padding: 20px;
+    border-radius: 15px;
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    background-color: #008cba;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+}
+
+details {
+    background-color: pink;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+}
+
+.section-box {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+input, select {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #008cba;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: pink;
+}
+
+#ticketImage {
+    width: 150px;
+    margin-top: 20px;
+}
+
+img{
+    width: 200px;
+    margin-top: 15px;
+    display: none;
+}
